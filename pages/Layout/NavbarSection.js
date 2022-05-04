@@ -139,19 +139,6 @@ const NavbarSection = () => {
                 <li>Coffee</li>
                 <li>Tea</li>
                 <li>Milk</li>
-                <li>Coffee</li>
-                <li>Tea</li>
-                <li>Milk</li>
-              </ul>
-
-              <ul>
-                <h2 className="text-white font-bold">An Unordered HTML List</h2>
-                <li>Coffee</li>
-                <li>Tea</li>
-                <li>Milk</li>
-                <li>Coffee</li>
-                <li>Tea</li>
-                <li>Milk</li>
               </ul>
             </div>
             <div className="flex justify-center">
